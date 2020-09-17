@@ -6,7 +6,7 @@ Python é uma das linguagens mais populares da atualidade. Tenho como objetivo d
 
 [Jean Jacques Barros](https://www.linkedin.com/in/jjean-jacques10/)
 
-## Palestra
+## Palestra - Microsoft Reactor
 
 [Introdução ao Python - Data Science](https://www.meetup.com/pt-BR/Microsoft-Reactor-Sao-Paulo/events/272992565/)
 
